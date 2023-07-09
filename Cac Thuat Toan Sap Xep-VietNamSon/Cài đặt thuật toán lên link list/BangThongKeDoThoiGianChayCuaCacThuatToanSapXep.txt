@@ -1,0 +1,11 @@
+				InsertionSort_SingleLinkList_BeMoiLienKet_KhongDungGetNodePre_Ver2
+Tap Du Lieu	Lan Chay 1	Trung Binh
+50.000		8.969s		8.969s
+
+				InsertionSort_SingleLinkList_BeMoiLienKet_KhongDungGetNodePre_Ver2_Sentinel
+Tap Du Lieu	Lan Chay 1	Trung Binh
+50.000		9.525s		9.525s
+
+				Tong Ket
+Tap Du Lieu	InsertionSort_SingleLinkList_BeMoiLienKet_KhongDungGetNodePre_Ver2	InsertionSort_SingleLinkList_BeMoiLienKet_KhongDungGetNodePre_Ver2_Sentinel
+50.000		8.969s		9.525s

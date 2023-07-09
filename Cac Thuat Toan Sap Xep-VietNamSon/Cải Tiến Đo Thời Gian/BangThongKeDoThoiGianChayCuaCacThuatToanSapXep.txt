@@ -1,0 +1,19 @@
+				InsertionSort
+Tap Du Lieu	Lan Chay 1	Lan Chay 2	Lan Chay 3	Trung Binh
+50.000		1.777s		1.775s		1.816s		1.789s
+
+				InsertionSort_2
+Tap Du Lieu	Lan Chay 1	Lan Chay 2	Lan Chay 3	Trung Binh
+50.000		1.829s		1.801s		1.784s		1.805s
+
+				InsertionSort_3
+Tap Du Lieu	Lan Chay 1	Lan Chay 2	Lan Chay 3	Trung Binh
+50.000		2.880s		2.875s		2.904s		2.886s
+
+				InsertionSort_3_Sentinel
+Tap Du Lieu	Lan Chay 1	Lan Chay 2	Lan Chay 3	Trung Binh
+50.000		2.500s		2.493s		2.469s		2.487s
+
+				Tong Ket
+Tap Du Lieu	InsertionSort	InsertionSort_2	InsertionSort_3	InsertionSort_3_Sentinel
+50.000		1.789s		1.805s		2.886s		2.487s

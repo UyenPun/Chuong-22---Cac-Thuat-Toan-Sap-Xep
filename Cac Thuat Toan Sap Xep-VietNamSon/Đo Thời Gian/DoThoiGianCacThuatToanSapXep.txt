@@ -1,0 +1,20 @@
+				Selection Sort
+Tap Du Lieu	Lan Chay 1	Lan Chay 2	Lan Chay 3	Trung Binh
+10.000		0.154s		0.247s		0.230s		0.210s
+50.000		4.058s		3.925s		3.871s		3.951s
+80.000		9.895s		9.940s		10.119s		9.985s
+100.000		15.694s		15.647s		15.481s		15.607s
+
+				Interchange Sort
+Tap Du Lieu	Lan Chay 1	Lan Chay 2	Lan Chay 3	Trung Binh
+10.000		0.327s		0.329s		0.220s		0.292s
+50.000		4.045s		3.749s		3.740s		3.845s
+80.000		9.729s		9.485s		9.342s		9.519s
+100.000		15.768s		15.333s		14.575s		15.225s
+
+				Selection Sort
+Tap Du Lieu	Lan Chay 1	Lan Chay 2	Lan Chay 3	Trung Binh
+10.000		0.145s		0.148s		0.145s		0.146s
+50.000		3.594s		3.506s		3.580s		3.560s
+80.000		10.065s		9.626s		9.618s		9.770s
+100.000		14.676s		14.260s		14.637s		14.524s
